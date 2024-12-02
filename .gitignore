@@ -1,0 +1,18 @@
+# Ignorar variables de entorno
+.env
+
+# Ignora archivos temporales de Alembic
+alembic/__pycache__/
+alembic/versions/__pycache__/
+
+# Ignorar ambientes virtuales
+env/
+.venv/
+venv/
+
+# Ignorar caché de Python
+__pycache__/
+
+# Ignorar configuraciones locales
+*.env
+*.log
